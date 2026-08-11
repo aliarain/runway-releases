@@ -6,6 +6,7 @@ Download builds of Runway, a local-first personal finance command center for mac
 
 ```bash
 brew tap aliarain/tap
+brew trust aliarain/tap
 brew install --cask runway-finance --no-quarantine
 ```
 
