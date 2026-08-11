@@ -6,7 +6,7 @@ Download builds of Runway, a local-first personal finance command center for mac
 
 ```bash
 brew tap aliarain/tap
-brew install --cask runway --no-quarantine
+brew install --cask runway-finance --no-quarantine
 ```
 
 The `--no-quarantine` flag skips Gatekeeper's prompt (builds are not yet notarized). Alternatively, install normally and allow the app once via System Settings → Privacy & Security → "Open Anyway".
