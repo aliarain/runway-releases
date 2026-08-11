@@ -16,4 +16,4 @@ The `--no-quarantine` flag skips Gatekeeper's prompt (builds are not yet notariz
 
 Grab the `.dmg` from the latest release, drag Runway to Applications, and if macOS blocks the first launch, allow it as above (or run `xattr -cr /Applications/Runway.app`).
 
-Apple Silicon (arm64) only for now.
+Universal build — Apple Silicon and Intel Macs.
